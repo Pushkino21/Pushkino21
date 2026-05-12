@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pushkino21
 - 👀 I’m interested in learn about how to code
-- 🌱 I’m currently learning python  
-- 💞️ I’m looking to collaborate on python development
+- 🌱 I’m currently working with python, C/C++, micropython  
+- 💞️ I’m looking to collaborate on development
 - 📫 How to reach me, if you want to talk contact me on nichtmeher@gmail.com
 
 <!---
